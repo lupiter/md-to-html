@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "md-to-html",
+	"name": "Markdown to HTML",
+	"version": "0.1.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Convert your markdown notes to html that can be pasted in html-accepting form fields (like Ao3).",
+	"author": "Lupiter",
+	"authorUrl": "https://github.com/lupiter/md-to-html",
 	"isDesktopOnly": false
 }
