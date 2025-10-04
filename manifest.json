@@ -1,7 +1,7 @@
 {
 	"id": "md-to-html",
 	"name": "Markdown to HTML",
-	"version": "0.1.0",
+	"version": "0.1.2",
 	"minAppVersion": "0.15.0",
 	"description": "Convert your markdown notes to html that can be pasted in html-accepting form fields (like Ao3).",
 	"author": "Lupiter",
